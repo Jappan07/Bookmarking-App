@@ -1,5 +1,5 @@
 # Bookify - A Bookmarking application
-It is an application made using javascript, html5 and css.
+It is an application made using javascript, html5 and css to store you favourite bookmarks in one organised space.
 # Features: 
 - Add/Delete your bookmarks.
 - Scrolling progress bar coming soon

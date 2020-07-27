@@ -5,4 +5,4 @@ It is an application made using javascript, html5 and css to store you favourite
 - Scrolling progress bar.
 ![alt tag](https://github.com/Jappan07/Bookmarking-App/blob/master/assets/ss.png)
 
-# To run this app simply clone or download this repository and then open index.html using any web browser OR follow this link - (https://jappan07.github.io/Bookmarking-App/)
+### To run this app simply clone or download this repository and then open index.html using any web browser OR follow this link - (https://jappan07.github.io/Bookmarking-App/)

@@ -190,9 +190,17 @@ body.show-floater .overlay {
     font-size: 25px;
 
 }
-body.show-floater .floater {
-    transform: scale(1.0);
+    body.show-floater .floater {
+        transform: scale(1.0);
 }
+
+    .content{
+        max-width: 450px;
+
+    }
+    .bookmark{
+        margin-bottom: 10px;
+    }
 
     
 }

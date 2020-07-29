@@ -190,6 +190,9 @@ body.show-floater .overlay {
     font-size: 25px;
 
 }
+body.show-floater .floater {
+    transform: scale(1.0);
+}
 
     
 }
